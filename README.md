@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-a8hay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/a8hay/)](https://www.linkedin.com/in/a8hay/)
 [![Gmail Badge](https://img.shields.io/badge/-7ct0v759s@relay.firefox.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:7ct0v759s@relay.firefox.com)](mailto:7ct0v759s@relay.firefox.com)
 ---
-### <img src="./Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  
+### <img src="./Hi.gif" width="29px"> Hello world!&nbsp;<img src="./Earth.gif" width="24px">  
 :heart: Programming | :black_heart: AI | :blue_heart: movies
   
 I am a Third Year Computer Science Engineering Student at <a href="https://www.lpu.in//"> <b>Lovley Professional University</b></a>. I love Machine Learning and trying to find more about Full Stack Web Development. 

@@ -1,7 +1,6 @@
 # Abhay Kumar Singh&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
-### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-  
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  
 :heart: Programming | :black_heart: AI | :blue_heart: movies
   
 I am a Third Year Computer Science Engineering Student at <a href="https://www.lpu.in//"> <b>Lovley Professional University</b></a>. I love Machine Learning and trying to find more about Full Stack Web Development. 

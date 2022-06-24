@@ -5,7 +5,7 @@
 ### <img src="https://github.com/a8hay/a8hay/blob/master/Hi.gif" width="29px" height="29px"> Hello world!&nbsp;<img src="https://github.com/a8hay/a8hay/blob/master/Earth.gif" width="24px" height="24px">  
 :heart: Programming | :black_heart: AI | :blue_heart: movies
   
-I am a Third Year Computer Science Engineering Student at <a href="https://www.lpu.in//"> <b>Lovley Professional University</b></a>. I love Machine Learning and trying to find more about Full Stack Web Development. 
+I am a Fourth Year Computer Science Engineering Student at <a href="https://www.lpu.in//"> <b>Lovley Professional University</b></a>. I love Machine Learning and trying to find more about Full Stack Web Development. 
 
 - 🔭 I’m currently working on sign language predictor with openCV and deeplearning.
 - 🌱 I’m currently learning Data Science | Full Stack Web development | Machine Learning | Deep Learning
